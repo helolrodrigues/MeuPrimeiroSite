@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(191,191,191);
+    background-image: url('../img/imgouterbanks.webp');
+    background-repeat: no-repeat;
+    font-family: "Permanent Marker",cursive;
+}
+
+header{ 
+    padding: 3%;
+}
+#menu ul {
+padding: 0px;
+margin: 0px;
+background-color: aliceblue;
+list-style: none;
+}
+
+#menu ul li {display: inline;}
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 3px solid #ededed;
+}
+
+/* Classe atribuida para a div que vai receber o logo tipo */
+.logo{
+    background-color:rgb(255,255,0)
+}
+
+nav{
+    background-color:rgb(184,209,231)
+}
+
+main{
+    background-color: rgb(146,208,80);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    background-color: rgb(241,214,226);
+}
+
+footer{
+    background-color: rgb(112,48,160);
+    padding: 3%;
+}
+
+.cabecalho{
+    padding: 3%;
+}
+
+.rodape{
+    padding: 3%;
+}
+
+.titulos{
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+}
+    section{
+        line-height: 1;
+        font-size: 1em;
+    }
+
+h1{
+    font-size: 2em;
+}
+
+    h2{
+    line-height: 3;
+    font-size: 1.5em;
+}
+
+p{
+    line-height: 1.5;
+}
+
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
