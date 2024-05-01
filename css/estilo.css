@@ -1,8 +1,8 @@
 body {
     background-color: rgb(191,191,191);
-    background-image: url('../img/imgouterbanks.webp');
-    background-repeat: no-repeat;
-}
+    background-image: url(//img/imagemfundo.jpg);
+    font-family: "Rowdies", sans-serif;
+    }
 
 header{ 
     padding: 3%;
@@ -37,6 +37,8 @@ main{
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+
+    font-family: "Bree Serif", serif;
 }
 
 section{
@@ -78,3 +80,28 @@ h1{
 p{
     line-height: 1.5;
 }
+
+.rowdies-light {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .rowdies-regular {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .rowdies-bold {
+    font-family: "Rowdies", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .bree-serif-regular {
+    font-family: "Bree Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
